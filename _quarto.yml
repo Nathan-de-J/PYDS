@@ -7,8 +7,8 @@ website:
     left:
       - href: index.qmd
         text: "Accueil"
-      - href: /code/index.ipynb
-        text: "Impact des Gares"
+      - href: ./website/code/index.ipynb
+        text: "Projet"
 
 format:
   html:
