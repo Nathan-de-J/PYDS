@@ -218,6 +218,7 @@ __marimo__/
 .streamlit/secrets.toml
 
 data/
+data_old/
 /.quarto/
 **/*.quarto_ipynb
 
