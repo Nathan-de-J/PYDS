@@ -229,3 +229,6 @@ __pycache__/
 *.csv
 *.gz
 *.ipynb_checkpoints/
+
+# macOS
+.DS_Store
