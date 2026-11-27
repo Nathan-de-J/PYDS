@@ -1,5 +1,9 @@
 ---
-title: "PYDS"
+format:
+  html:
+    include-in-header:
+      text: |
+        <meta http-equiv="refresh" content="0; url=website/code/index.html" />
 ---
 
-This is a Quarto website.
+Redirection en cours... [Aller à la présentation]
