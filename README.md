@@ -1,5 +1,10 @@
+ATTENTION : la reproductibilité a été testé sur des PC en local et sur le Onyxia (SSPCloud) du groupe GENES
+Un seul problème est parfois apparu : un service VSCode-Python de Onyxia peut avoir des problèmes à ouvrir des .ipynb
+    Dans ce cas, utiliser un service Jupyter-python fonctionne (on a testé).
+
+
 La présentation est sous forme de site Quarto.
-Vous pouvez exécuter les commandes suivantes pour installer toutes les librairies nécessaires et lancer le site :
+Vous pouvez exécuter les commandes suivantes pour créer l'environnement et installer toutes les librairies nécessaires et lancer le site :
     cd ./PYDS
     py -m venv .venv
     .venv\Scripts\activate
