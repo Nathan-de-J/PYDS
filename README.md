@@ -18,6 +18,8 @@ Vous pourrez ensuite naviguer vers la page "Projet" avec la navbar.
 Toute l'étude est contenue dans un notebook : /website/code/index.ipynb
 Tous les autres fichiers sont soit des fichiers de quarto soit des fichiers brouillons de travail.
 
+Si jamais les API sont down ou les téléchargements se passent mal dans le notebook, nous pouvons vous fournir une sauvegarde des données.
+
 Bonne lecture !
 
 Nathan de Joannès, Dany Thai, Alexandre Pésenti
