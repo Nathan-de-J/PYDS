@@ -14,3 +14,9 @@ format:
   html:
     theme: cosmo
     toc: true
+    code-fold: true
+    code-summary: "Afficher le code"
+    code-tools: true
+
+execute:
+  warning: false
